@@ -1,0 +1,9 @@
+<meta>
+	<info author="pRemi" version="1.0" name="Remplacement de l'ID 3906 par le baraquement" type="script" />
+
+	<script src="remplacement.lua" type="client" />    
+     <file src="baraquement.txd" />    
+     <file src="baraquement.col" />
+     <file src="baraquement.dff" />
+
+</meta>

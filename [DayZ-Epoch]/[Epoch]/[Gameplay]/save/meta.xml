@@ -1,0 +1,5 @@
+<meta>
+	<info author="" description="Par Zyky | Adapté par PicardRemi pour MTA:DayZ Epoch" version="1.0.1" type="script" />
+	<script src="save_s.lua" type="server" />
+
+</meta>

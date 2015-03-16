@@ -1,0 +1,6 @@
+<meta>
+	<info author="JasperNL=D" type="script" version="0.2" />
+  <map src="greenzones.map"/>
+	<script src="server.lua" type="server"/>
+	<script src="client.lua" type="client"/>
+</meta>

@@ -1,0 +1,20 @@
+<meta>
+	<info author="Rémi" version="2.4" type="script"	name="Remi"	/>
+	
+	<script src="weaponshop_c.lua" type="client"/>
+	<script src="weaponshop_s.lua" type="server"/>
+	
+	<file src="AKM.png" />
+	<file src="CShotgun.png" />
+	<file src="CZ550.png" />
+	<file src="DesertEagle.png" />
+	<file src="LeeEnfield.png" />
+	<file src="M9SD.png" />
+	<file src="M16A2.png" />
+	<file src="M1911.png" />
+	<file src="MP5.png" />
+	<file src="PDW.png" />
+	<file src="Shotgun.png" />
+	<file src="Winchester.png" />
+
+</meta>

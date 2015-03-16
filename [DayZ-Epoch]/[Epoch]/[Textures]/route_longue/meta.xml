@@ -1,0 +1,9 @@
+<meta>
+	<info author="pRemi" version="1.0" name="Remplacement de l'ID 1578 par la route en béton longue" type="script" />
+
+	<script src="remplacement.lua" type="client" />    
+     <file src="route_longue.txd" />    
+     <file src="route_longue.col" />
+     <file src="route_longue.dff" />
+
+</meta>

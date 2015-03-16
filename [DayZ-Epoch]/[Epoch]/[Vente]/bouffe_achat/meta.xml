@@ -1,0 +1,16 @@
+<meta>
+	<info author="DoN" version="1.0" type="script"	name="Remi"	description="Adaptation de la version de DoN" />
+	
+	<script src="bouffe_c.lua" type="client"/>
+	<script src="bouffe_s.lua" type="server"/>
+	
+	<file src="beanscan.png" />
+	<file src="burger.png" />
+	<file src="milk.png" />
+	<file src="pastacan.png" />
+	<file src="pizza.png" />
+	<file src="rawmeat.png" />
+	<file src="sodabottle.png" />
+	<file src="waterbottle.png" />
+	
+</meta>

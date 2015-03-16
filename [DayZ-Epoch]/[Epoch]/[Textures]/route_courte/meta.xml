@@ -1,0 +1,9 @@
+<meta>
+	<info author="pRemi" version="1.0" name="Remplacement de l'ID 1577 par la route courte" type="script" />
+
+	<script src="remplacement.lua" type="client" />    
+     <file src="route_courte.txd" />    
+     <file src="route_courte.col" />
+     <file src="route_courte.dff" />
+
+</meta>

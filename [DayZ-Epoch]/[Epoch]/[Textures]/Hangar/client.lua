@@ -1,0 +1,7 @@
+txd = engineLoadTXD("modeles/hangar_dayz.txd")
+engineImportTXD(txd, 3890)
+col = engineLoadCOL ("modeles/hangar_dayz.col")
+engineReplaceCOL (col, 3890)
+dff = engineLoadDFF("modeles/hangar_dayz.dff", id)
+engineReplaceModel(dff, 3890)
+engineSetModelLODDistance(3890, 800)

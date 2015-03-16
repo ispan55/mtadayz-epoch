@@ -1,0 +1,26 @@
+<meta>
+	<info author="DoN" version="1.0" type="script"	name="Remi"	description="Adaptation de la version de DoN" />
+	
+	<script src="ventearme_c.lua" type="client"/>
+	<script src="ventearme_s.lua" type="server"/>
+	
+	<file src="Ak.png" />
+	<file src="Armor.png" />
+	<file src="Deagle.png" />
+	<file src="Grenade.png" />
+	<file src="M4.png" />
+	<file src="Molotov.png" />
+	<file src="Mp5.png" />
+	<file src="Pistol.png" />
+	<file src="Rifle.png" />
+	<file src="Satchel.png" />
+	<file src="Sawn-Off.png" />
+	<file src="Shotgun.png" />
+	<file src="Silenced.png" />
+	<file src="Sniper.png" />
+	<file src="Spaz.png" />
+	<file src="TearGas.png" />
+	<file src="Tec.png" />
+	<file src="Uzi.png" />
+	
+</meta>

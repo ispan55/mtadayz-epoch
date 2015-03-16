@@ -1,0 +1,6 @@
+<meta>
+	<info author="Rémi" version="1.0" type="script"	name=""	description="" />
+	
+	<script src="mission_c.lua" type="client" />
+	<script src="mission_s.lua" type="server" />
+</meta>

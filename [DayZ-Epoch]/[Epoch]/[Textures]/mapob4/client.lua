@@ -1,0 +1,7 @@
+﻿txd = engineLoadTXD ( "skins/tenda-p.txd" )
+engineImportTXD ( txd, 3971 )
+col = engineLoadCOL ( "skins/tenda-p.col" )
+engineReplaceCOL ( col, 3971 )
+dff = engineLoadDFF ( "skins/tenda-p.dff", 0 )
+engineReplaceModel ( dff, 3971 )
+engineSetModelLODDistance(3971, 500)

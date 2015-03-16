@@ -1,0 +1,19 @@
+<meta>
+    <info author="[TZ]DXfilthDX" version="1.0" type="script" name="Vehicle Spawn Command System"/>
+        <script src="BobCat.lua" />
+	<script src="Patriot.lua" />
+	<script src="PMaverick.lua" />
+	<script src="Maverick.lua" />
+	<script src="Sanchez.lua" />
+	<script src="Coach.lua" />
+	<script src="Barracks.lua" />
+	<script src="Bike.lua" />
+	<script src="Boot.lua" />
+	<script src="camion.lua" />
+	<script src="admiral.lua" />
+	<script src="clover.lua" />
+	<script src="cargobob.lua" />
+	<settings>
+		<setting name="aclMinimumGroup" value="Moderator,Admin" examples="Moderator,Admin" desc="Minimum level in ACL to be able to give items (add commas to separate)"/>
+	</settings>
+</meta>

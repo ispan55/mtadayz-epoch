@@ -1,0 +1,85 @@
+<meta>
+    <info author="Topo1st" type="script" name="RPM System" />
+    
+	<script src="s_main.lua" type="server" />
+    <script src="c_main.lua" type="client" />
+    
+    <file src="files/01_off.wav" />
+	<file src="files/01_on.wav" />
+    <file src="files/02_off.wav" />
+	<file src="files/02_on.wav" />
+    <file src="files/03_off.wav" />
+	<file src="files/03_on.wav" />
+    <file src="files/04_off.wav" />
+	<file src="files/04_on.wav" />
+    <file src="files/05_off.wav" />
+	<file src="files/05_on.wav" />
+    <file src="files/06_off.wav" />
+	<file src="files/06_on.wav" />
+    <file src="files/07_off.wav" />
+	<file src="files/07_on.wav" />
+    <file src="files/08_off.wav" />
+	<file src="files/08_on.wav" />
+    <file src="files/09_off.wav" />
+	<file src="files/09_on.wav" />
+    <file src="files/10_off.wav" />
+	<file src="files/10_on.wav" />
+    <file src="files/11_off.wav" />
+	<file src="files/11_on.wav" />
+    <file src="files/12_off.wav" />
+	<file src="files/12_on.wav" />
+    <file src="files/13_off.wav" />
+	<file src="files/13_on.wav" />
+    <file src="files/14_off.wav" />
+	<file src="files/14_on.wav" />
+    <file src="files/15_off.wav" />
+	<file src="files/15_on.wav" />
+    <file src="files/16_off.wav" />
+	<file src="files/16_on.wav" />
+    <file src="files/17_off.wav" />
+	<file src="files/17_on.wav" />
+    <file src="files/18_off.wav" />
+	<file src="files/18_on.wav" />
+    <file src="files/19_off.wav" />
+	<file src="files/19_on.wav" />
+    <file src="files/20_off.wav" />
+	<file src="files/20_on.wav" />
+    <file src="files/21_off.wav" />
+	<file src="files/21_on.wav" />
+    <file src="files/22_off.wav" />
+	<file src="files/22_on.wav" />
+    <file src="files/23_off.wav" />
+	<file src="files/23_on.wav" />
+    <file src="files/24_off.wav" />
+	<file src="files/24_on.wav" />
+    <file src="files/25_off.wav" />
+	<file src="files/25_on.wav" />
+    <file src="files/26_off.wav" />
+	<file src="files/26_on.wav" />
+    <file src="files/27_off.wav" />
+	<file src="files/27_on.wav" />
+    <file src="files/28_off.wav" />
+	<file src="files/28_on.wav" />
+    <file src="files/29_off.wav" />
+	<file src="files/29_on.wav" />
+    <file src="files/30_off.wav" />
+	<file src="files/30_on.wav" />
+    <file src="files/31_off.wav" />
+	<file src="files/31_on.wav" />
+    <file src="files/32_off.wav" />
+	<file src="files/32_on.wav" />
+    <file src="files/33_off.wav" />
+	<file src="files/33_on.wav" />
+    <file src="files/34_off.wav" />
+	<file src="files/34_on.wav" />
+
+	<file src="files/grind.wav" />
+
+	<file src="files/disc1.png" />
+	<file src="files/needle1.png" />
+	
+	<file src="sounds.xml" />
+	<file src="gears.xml" />
+ 
+	<min_mta_version client="1.3.0-9.04134"></min_mta_version>
+</meta>

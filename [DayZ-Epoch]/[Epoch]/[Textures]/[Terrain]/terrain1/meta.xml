@@ -1,0 +1,9 @@
+<meta>
+	<info author="CondizitionEJoaoPSoares" version="1.0" name="Replace Item System" type="script" />
+
+	<script src="client.lua" type="client" />    
+     <file src="skins/terreno_1.txd" />
+     <file src="skins/terreno_1.dff" />
+     <file src="skins/terreno_1.col" />
+
+</meta>

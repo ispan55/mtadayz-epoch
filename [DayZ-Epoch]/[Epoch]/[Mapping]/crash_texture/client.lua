@@ -1,0 +1,7 @@
+txd = engineLoadTXD ( "skins/castle.txd" )
+engineImportTXD ( txd, 14777 )
+col = engineLoadCOL ( "skins/castle.col" )
+engineReplaceCOL ( col, 14777 )
+dff = engineLoadDFF ( "skins/castle.dff", 0 )
+engineReplaceModel ( dff, 14777 )
+engineSetModelLODDistance(14777, 300)

@@ -1,0 +1,7 @@
+﻿txd = engineLoadTXD ( "skins/torre.txd" )
+engineImportTXD ( txd, 2624 )
+col = engineLoadCOL ( "skins/torre.col" )
+engineReplaceCOL ( col, 2624 )
+dff = engineLoadDFF ( "skins/torre.dff", 0 )
+engineReplaceModel ( dff, 2624 )
+engineSetModelLODDistance(2624, 500)

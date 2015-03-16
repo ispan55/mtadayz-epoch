@@ -1,0 +1,9 @@
+<meta>
+	<info author="Condizition" version="1.0" name="Replace Item System" type="script" />
+
+	<script src="client.lua" type="client" />    
+     <file src="skins/fires.txd" />
+     <file src="skins/fires.dff" />
+     <file src="skins/fires.col" />
+
+</meta>

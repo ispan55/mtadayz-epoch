@@ -1,0 +1,29 @@
+<meta>
+	<info author="Rémi" version="1.2" type="script"	name=""	description="" />
+	
+	<script src="vehachat_c.lua" type="client"/>
+	<script src="vehachat_s.lua" type="server"/>
+	
+	<script src="Maverick.lua" type="server"/>
+	<script src="PMaverick.lua" type="server"/>
+	<script src="Dodo.lua" type="server"/>
+	
+
+ 	<file src="Ak.png" />
+	<file src="Armor.png" />
+	<file src="Deagle.png" />
+	<file src="Grenade.png" />
+	<file src="M4.png" />
+	<file src="Molotov.png" />
+	<file src="Pistol.png" />
+	<file src="Rifle.png" />
+	<file src="Satchel.png" />
+	<file src="Sawn-Off.png" />
+	<file src="Silenced.png" />
+	<file src="Sniper.png" />
+	<file src="Spaz.png" />
+	<file src="TearGas.png" />
+	<file src="Tec.png" />
+	<file src="Uzi.png" />
+	
+</meta>

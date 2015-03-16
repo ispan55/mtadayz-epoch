@@ -1,0 +1,9 @@
+<meta>
+	<info author="pRemi" version="1.0" name="Remplacement de l'ID 1733 par la tour de contrôle" type="script" />
+
+	<script src="remplacement.lua" type="client" />    
+     <file src="tourdecontrole.txd" />    
+     <file src="tourdecontrole.col" />
+     <file src="tourdecontrole.dff" />
+
+</meta>

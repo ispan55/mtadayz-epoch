@@ -1,0 +1,5 @@
+<!-- In case you need six or more gears, define them here. The scripts supports up to 24 gears. Feel free to remove my six gears example for Landstalker.  -->
+
+<gears>
+	<model400>6</model400>
+</gears>

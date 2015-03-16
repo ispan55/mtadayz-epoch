@@ -1,0 +1,8 @@
+<meta>
+    <info author="Remi" version="1.0" name="DayZ Epoch Login Image" type="script" />
+    <script src="client.lua" type="client" />
+    <script src="server.lua" type="server" />
+    <script src="appel/call_c.lua" type="client" />
+    <script src="appel/call_s.lua" type="server" />
+    <file src="images/image.png" type="client" /> 
+</meta>

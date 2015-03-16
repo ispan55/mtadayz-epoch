@@ -1,0 +1,9 @@
+<meta>
+	<info author="pRemi" version="1.0" name="" type="script" />
+
+	<script src="remplacement.lua" type="client" />    
+    <file src="woodpt.txd" />    
+    <file src="woodpt.col" />
+    <file src="woodpt.dff" />
+    
+</meta>

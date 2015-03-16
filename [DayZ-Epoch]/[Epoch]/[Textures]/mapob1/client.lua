@@ -1,0 +1,7 @@
+﻿txd = engineLoadTXD ( "skins/baguilok.txd" )
+engineImportTXD ( txd, 14801 )
+col = engineLoadCOL ( "skins/baguilok.col" )
+engineReplaceCOL ( col, 14801 )
+dff = engineLoadDFF ( "skins/baguilok.dff", 0 )
+engineReplaceModel ( dff, 14801 )
+engineSetModelLODDistance(14801, 500)

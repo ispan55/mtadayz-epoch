@@ -1,0 +1,11 @@
+<meta>
+	<info author="Rémi" version="1.0" type="script"	name=""	description="" />
+	
+	<script src="vente_c.lua" type="client"/>
+	<script src="vente_s.lua" type="server"/>
+	
+	<file src="engine.png" />
+	<file src="Tankparts.png" />
+	<file src="tire.png" />
+	
+</meta>

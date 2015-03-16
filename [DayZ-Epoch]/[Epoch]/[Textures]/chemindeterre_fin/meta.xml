@@ -1,0 +1,9 @@
+<meta>
+	<info author="pRemi" version="1.0" name="Remplacement de l'ID 1576 par la fin du chemin en béton" type="script" />
+
+	<script src="remplacement.lua" type="client" />    
+     <file src="chemindeterre_f.txd" />    
+     <file src="chemindeterre_f.col" />
+     <file src="chemindeterre_f.dff" />
+
+</meta>

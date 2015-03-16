@@ -1,0 +1,9 @@
+<meta>
+	<info author="Rémi" version="1.0" name="Nouveau crash d'hélicoptère" type="script" />
+
+	<script src="client.lua" type="client" />    
+     <file src="skins/castle.txd" />
+     <file src="skins/castle.dff" />
+     <file src="skins/castle.col" />
+
+</meta>

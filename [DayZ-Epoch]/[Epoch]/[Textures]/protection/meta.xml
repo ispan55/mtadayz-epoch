@@ -1,0 +1,9 @@
+<meta>
+	<info author="pRemi" version="1.0" name="Remplacement de l'ID 1575 par un protection" type="script" />
+
+	<script src="remplacement.lua" type="client" />    
+     <file src="protec.txd" />    
+     <file src="protec.col" />
+     <file src="protec.dff" />
+
+</meta>

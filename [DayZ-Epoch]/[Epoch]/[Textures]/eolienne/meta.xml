@@ -1,0 +1,9 @@
+<meta>
+	<info author="pRemi" version="1.0" name="Remplacement de l'ID 3902 par une éolienne" type="script" />
+
+	<script src="remplacement.lua" type="client" />    
+     <file src="eolienne.txd" />    
+     <file src="eolienne.col" />
+     <file src="eolienne.dff" />
+
+</meta>

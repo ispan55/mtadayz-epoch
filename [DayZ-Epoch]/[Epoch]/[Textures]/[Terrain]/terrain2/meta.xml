@@ -1,0 +1,9 @@
+<meta>
+	<info author="CDZeJP" version="1.0" name="Replace Item System" type="script" />
+
+	<script src="client.lua" type="client" />    
+     <file src="skins/terreno_2.txd" />
+     <file src="skins/terreno_2.dff" />
+     <file src="skins/terreno_2.col" />
+
+</meta>

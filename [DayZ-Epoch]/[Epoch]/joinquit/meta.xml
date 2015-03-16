@@ -1,0 +1,4 @@
+<meta>
+    <info author='onix' version='1.0.0' name='joinquit' description='developed by onix' type='script' />
+	<script src="joinquit.lua" type="server" />
+</meta>

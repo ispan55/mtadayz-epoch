@@ -1,0 +1,9 @@
+<meta>
+	<info author="pRemi" version="1.0" name="Remplacement de l'ID 3905 par la firestation" type="script" />
+
+	<script src="remplacement.lua" type="client" />    
+     <file src="fire.txd" />    
+     <file src="fire.col" />
+     <file src="fire.dff" />
+
+</meta>

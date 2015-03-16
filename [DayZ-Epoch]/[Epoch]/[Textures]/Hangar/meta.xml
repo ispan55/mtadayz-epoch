@@ -1,0 +1,9 @@
+<meta>
+	<info author="pRemi" version="1.0" name="Remplacement de l'ID 3890 par un hangar" type="script" />
+
+	<script src="client.lua" type="client" />    
+     <file src="modeles/hangar_dayz.txd" />
+     <file src="modeles/hangar_dayz.dff" />
+     <file src="modeles/hangar_dayz.col" />
+
+</meta>

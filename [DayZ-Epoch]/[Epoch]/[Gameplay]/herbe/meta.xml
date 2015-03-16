@@ -1,0 +1,14 @@
+<meta>
+    <info author="" description="" version="1.3.1" type="script" />
+    <script src="replace.lua" type="Client" />
+    <file src="data/a51_ext.txd" />
+	<file src="data/des_cen.txd" />
+	<file src="data/des_n.txd" />
+	<file src="data/des_ne.txd" />
+	<file src="data/des_se1.txd" />
+	<file src="data/des_se2.txd" />
+	<file src="data/des_se3.txd" />
+	<file src="data/des_se4.txd" />
+	<file src="data/desert.txd" />
+	<file src="data/lod_countn2.txd" />
+</meta>

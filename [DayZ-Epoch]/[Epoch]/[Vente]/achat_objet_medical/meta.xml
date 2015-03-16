@@ -1,0 +1,13 @@
+<meta>
+	<info author="Rémi" version="1.0" type="script"	name=""	description="" />
+	
+	<script src="vente_c.lua" type="client"/>
+	<script src="vente_s.lua" type="server"/>
+	
+	<file src="bandage.png" />
+	<file src="bloodbag.png" />
+	<file src="medickit.png" />
+	<file src="morphine.png" />
+	<file src="painkiller.png" />
+	
+</meta>

@@ -1,0 +1,7 @@
+txd = engineLoadTXD("woodpt.txd")
+engineImportTXD(txd, 3902)
+col = engineLoadCOL ("woodpt.col")
+engineReplaceCOL (col, 3902)
+dff = engineLoadDFF("woodpt.dff", 3902)
+engineReplaceModel(dff, 3902)
+engineSetModelLODDistance(3902, 900)

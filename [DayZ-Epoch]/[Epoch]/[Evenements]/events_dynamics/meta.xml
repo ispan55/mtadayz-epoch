@@ -1,0 +1,5 @@
+<meta>
+    <info type="map" name="Evènements dynamiques" author="Remi" version="1.0.0" description=""></info>
+
+    <script src="events_server.lua" type="server"></script>
+</meta>
