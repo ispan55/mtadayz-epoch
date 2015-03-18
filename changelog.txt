@@ -1,0 +1,35 @@
+Version (beta) 0.4.528b
+
+	Gameplay/Gamemode :
+  - Optimisation (Gain de FPS)
+  - Nettoyage du code
+  - Réorganisation
+
+ 	Vêtements :
+  - Ajout du vêtements "Holding of farmer" (Tenue de fermier)
+  - Ajout du vêtements "Police Uniforms" (Tenue de policier)
+  - Ajout du vêtements "Keeping of medic" (Tenue de médecin)
+  - Ajout du vêtements "Holding of mechanic" (Tenue de mécanicien)
+
+  Système de crafts :
+  - Mise en place de l'interface du système de craft
+  - Travail sur les bases du système
+  - Après un craft, l'inventaire se refresh automatiquement
+  - Il est désormais possible de craft des bandages (Il faut un tee-shirt)
+  - Il est désormais possible de craft une palissade en bois (15 Wood Pile)
+  - Il est désormais possible de craft un feu de camps (Box of Matches + Wood Pile)
+  - Il est désormais possible de craft une structure de protection en bois (24 Wood Pile)
+
+  Graphismes :
+  - Modification de la configuration du shader panel
+  - Mise en place d'un système de lumière dynamique
+  - Les phares sont plus réaliste
+  - Les tirs génèrent un flash lumineux
+
+  Véhicules :
+  - Suppression des spawns de remorques
+  - Modification aléatoire des plaques
+
+ 	Corrections de bugs :
+  - Correction d'un problème lié à la résolution de l'UI du système de craft
+  - Correction d'un problème de sauvegarde de l'argent des joueurs
