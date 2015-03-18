@@ -1,0 +1,35 @@
+Version (beta) 0.4.528b
+
+  Gameplay/Gamemode :
+  - Optimization (More FPS)
+  - Code cleanup
+  - Reorganization
+
+  Clothing :
+  - Added clothing "Holding of farmer"
+  - Added clothing "Police Uniforms"
+  - Added clothing "Keeping of medic"
+  - Added clothing "Holding of mechanic"
+
+  Crafts system :
+   - Implementation of the interface of crafting system
+   - Work on the foundations of the system
+   - After a craft, the inventory will automatically refresh
+   - It is now possible to craft bandages (must be a T-shirt)
+   - It is now possible to craft a wooden fence (15 Wood Pile)
+   - It is now possible to craft a campfire (Box of Matches + Wood Pile)
+   - It is now possible to craft a wooden protection structure (24 Wood Pile)
+
+  Graphics :
+   - Changing the configuration of the shader panel
+   - Establishment of a dynamic light system
+   - The headlights of the vehicles are more realistic
+   - The shots generate a flash of light
+
+  Vehicles :
+  - Removal of trailers spawns
+  - Random Changing plates
+
+  Bug Fixes:
+  - Fixed a problem with the resolution of the UI of the crafting system
+  - Fixed problem saving money players
