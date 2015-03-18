@@ -1,11 +1,11 @@
 Version (beta) 0.4.528b
 
-	Gameplay/Gamemode :
+  Gameplay/Gamemode :
   - Optimisation (Gain de FPS)
   - Nettoyage du code
   - Réorganisation
 
- 	Vêtements :
+  Vêtements :
   - Ajout du vêtements "Holding of farmer" (Tenue de fermier)
   - Ajout du vêtements "Police Uniforms" (Tenue de policier)
   - Ajout du vêtements "Keeping of medic" (Tenue de médecin)
