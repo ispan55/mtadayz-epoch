@@ -28,8 +28,6 @@
         <object name="resource.green_zone_lv"></object>
         <object name="resource.green_zone"></object>
         <object name="resource.guieditor"></object>
-        <object name="user.pRemi"></object>
-        <object name="user.Flooorent"></object>
         <object name="resource.events_dynamics"></object>
     </group>
     <group name="Console">
