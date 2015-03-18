@@ -121,7 +121,7 @@ function build_loginWin()
             --guestButton = createMarwinButton(0.45,0.275,0.175,0.1,"Guestmode",true,background_front,"guest")
             --guiSetFont(guestButton,font[0])
             --Text
-            guestInfo = guiCreateLabel(0.375, 0.125, 0.325, 0.225,"MTA DayZ Epoch\n Beta 0.3.483b \n Dernière MAJ : \n 18.02.15",true,background_front)
+            guestInfo = guiCreateLabel(0.375, 0.125, 0.325, 0.225,"MTA DayZ Epoch\n Beta 0.4.528b \n Dernière MAJ : \n 18.03.15",true,background_front)
             guiSetFont(guestInfo,font[1])
             guiLabelSetHorizontalAlign (guestInfo, "center")
             guiLabelSetColor ( guestInfo,50,255,50)

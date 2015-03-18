@@ -1,5 +1,5 @@
 addEventHandler("onClientResourceStart", getResourceRootElement(), function()
-  dayzVersion = "Epoch 0.3.483b"
+  dayzVersion = "Epoch 0.4.528b"
   versionLabel = guiCreateLabel(1, 1, 0.3, 0.3, dayzVersion, true)
   guiSetSize(versionLabel, guiLabelGetTextExtent(versionLabel), guiLabelGetFontHeight(versionLabel), false)
   x, y = guiGetSize(versionLabel, true)
