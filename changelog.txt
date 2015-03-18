@@ -30,6 +30,6 @@ Version (beta) 0.4.528b
   - Suppression des spawns de remorques
   - Modification aléatoire des plaques
 
- 	Corrections de bugs :
+  Corrections de bugs :
   - Correction d'un problème lié à la résolution de l'UI du système de craft
   - Correction d'un problème de sauvegarde de l'argent des joueurs
